@@ -2,7 +2,7 @@ openai
 langchain
 langchain-openai
 langchain_pinecone
-langchain[docarray]
+# langchain[docarray]
 docarray
 pydantic==1.10.8
 pytube

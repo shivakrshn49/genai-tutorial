@@ -19,3 +19,7 @@ $ pip install -r requirements.txt
 OPENAI_API_KEY = [ENTER YOUR OPENAI API KEY HERE]
 PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]
 PINECONE_API_ENV = [ENTER YOUR PINECONE API ENVIRONMENT HERE]
+
+
+
+Source : https://github.com/svpino/youtube-rag/
